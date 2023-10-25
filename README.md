@@ -10,6 +10,9 @@ TODO
 
 ## usage
 
+> [!NOTE]  
+> album creation and management is not implemented yet.
+
 ```text
 usage: nuko [-h] [-l] [-t {1,12,24,72}] [file, ...]
 
