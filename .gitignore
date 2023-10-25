@@ -1,0 +1,7 @@
+# nix
+.devbox
+result
+
+# zig
+zig-cache
+zig-out
