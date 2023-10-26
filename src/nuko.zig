@@ -80,7 +80,7 @@ pub fn main() !void {
             std.os.exit(255);
         },
         1 => {
-            log.info(
+            log.err(
                 \\no arguments given
                 \\see '{s} --help' for more information.
             , .{args[0]});
